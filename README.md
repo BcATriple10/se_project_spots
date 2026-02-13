@@ -18,7 +18,7 @@
 **Deployment**
 This webpage is deployed to GitHub Pages
 
-- Deployment Link:
+- [Deployment Link]https://bcatriple10.github.io/se_project_spots/
 
 **Intro**
 
@@ -48,7 +48,7 @@ what other projects this program has in-store for me.
 
 **Loom video**
 
-Loom Link: https://drive.google.com/file/d/1xds0FnN576LdKj9XyaT9LtXkl1nqkRi3/view?usp=sharing
+[Loom Link]https://drive.google.com/file/d/1xds0FnN576LdKj9XyaT9LtXkl1nqkRi3/view?usp=sharing
 
 I don't know if it was me, but for some reason Loom was giving me massive issues with recording quality despite the fact that I was fine before recording.
 If anything came out weird I apologize, I do not know why it was doing that. I tried everything I could to edit the poor lighting even turning off my own light.
