@@ -53,3 +53,6 @@ what other projects this program has in-store for me.
 I don't know if it was me, but for some reason Loom was giving me massive issues with recording quality despite the fact that I was fine before recording.
 If anything came out weird I apologize, I do not know why it was doing that. I tried everything I could to edit the poor lighting even turning off my own light.
 But it wouldn't work.
+
+- side note: I do know now, post edit of my intial review from Dot I had a few issues and oversights. I will update and try to fix the video lighting issue again
+  if possible, by the time I get a code developer to review any other issues winthin my code, I will then give an accurate video mirroring the corrected code.
