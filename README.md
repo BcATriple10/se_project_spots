@@ -56,3 +56,8 @@ But it wouldn't work.
 
 - side note: I do know now, post edit of my intial review from Dot I had a few issues and oversights. I will update and try to fix the video lighting issue again
   if possible, by the time I get a code developer to review any other issues winthin my code, I will then give an accurate video mirroring the corrected code.
+
+**Extra note**
+
+- I don't have the ability to record the video when I send this in, but I will replace the video with the proper code showing tomorrow.
+  I will also investigate why my saturation looks terrible in the videos.
