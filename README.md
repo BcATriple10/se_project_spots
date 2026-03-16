@@ -54,10 +54,8 @@ I don't know if it was me, but for some reason Loom was giving me massive issues
 If anything came out weird I apologize, I do not know why it was doing that. I tried everything I could to edit the poor lighting even turning off my own light.
 But it wouldn't work.
 
-- side note: I do know now, post edit of my intial review from Dot I had a few issues and oversights. I will update and try to fix the video lighting issue again
-  if possible, by the time I get a code developer to review any other issues winthin my code, I will then give an accurate video mirroring the corrected code.
-
 **Extra note**
 
-- I don't have the ability to record the video when I send this in, but I will replace the video with the proper code showing tomorrow.
-  I will also investigate why my saturation looks terrible in the videos.
+- I don't have the ability to record the video when I send this in, but I will replace the video with the proper code showing towards the end of sprint 5.
+  Due to time issues and personal problems. I have not had time to re-record everything, along with investigating my lighting issue. Though it is priority once I can get myself realigned
+  With my schedule.
