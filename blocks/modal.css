@@ -103,7 +103,7 @@
   color: #2121214d;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 627px) {
   .modal__title {
     font-size: 20px;
   }
