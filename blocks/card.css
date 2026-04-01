@@ -1,6 +1,7 @@
 .card {
   max-width: 413px;
   font-family: "Poppins", Arial, Helvetica, sans-serif;
+  position: relative;
 }
 
 .card__title {
@@ -31,10 +32,6 @@
   justify-content: space-between;
 }
 
-.card__like-btn:hover {
-  opacity: 1;
-}
-
 .card__like-btn {
   background-image: url(../images/heart.svg);
   width: 23px;
@@ -46,6 +43,39 @@
   background-color: transparent;
   opacity: 40%;
   cursor: pointer;
+}
+
+.card__like-btn:hover {
+  opacity: 1;
+}
+
+.card__like-btn_active {
+  background-image: url(../images/like.svg);
+  opacity: 1;
+}
+.card__like-btn_active:hover {
+  opacity: 0.4;
+}
+
+.card__delete-button {
+  background-image: url(../images/delete.svg);
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 32px;
+  height: 32px;
+  border: none;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: transparent;
+  opacity: 1;
+  cursor: pointer;
+}
+
+.card__delete-button:hover {
+  background-image: url(../images/delete-hover.svg);
+  opacity: 1;
 }
 
 @media screen and (max-width: 627px) {
