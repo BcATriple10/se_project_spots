@@ -80,7 +80,6 @@ function getCardElement(data) {
   const cardDeleteBtnEl = cardElement.querySelector(".card__delete-button");
   cardDeleteBtnEl.addEventListener("click", () => {
     cardElement.remove();
-    cardElement = null;
   });
 
   cardImageEl.addEventListener("click", () => {
@@ -123,7 +122,6 @@ newPostCloseBtn.addEventListener("click", function () {
 previewModalCloseBtn.addEventListener("click", function () {
   closeModal(previewModal);
 });
-/* add the click listener */
 
 function handleEditProfileSubmit(evt) {
   evt.preventDefault();
@@ -142,6 +140,7 @@ function handleNewPostSubmit(evt) {
   };
   const cardElement = getCardElement(inputValues);
   cardsList.prepend(cardElement);
+  evt.target.reset();
   closeModal(newPostModal);
 }
 

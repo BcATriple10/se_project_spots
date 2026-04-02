@@ -12,6 +12,7 @@
   justify-content: center;
   align-items: center;
   opacity: 0;
+  z-index: 100;
   transition:
     visibility 0s linear 0.5s,
     opacity 0.5s linear;
@@ -58,16 +59,14 @@
   cursor: pointer;
 }
 
-.modal__close_type_preview {
+.modal__close-btn_type_preview {
   background-image: url(../images/img-preview-close-btn.svg);
-  border: none;
-  background-color: transparent;
   background-repeat: no-repeat;
   top: 0;
   right: -52.5px;
 }
 
-.modal__close_type_preview:hover {
+.modal__close-btn_type_preview:hover {
   opacity: 0.6;
 }
 
@@ -169,11 +168,7 @@
   .modal__label {
     margin: 0 0 20px;
   }
-}
-
-@media screen and (max-width: 627px) {
-  /*Placed here below the other 627 Media query to avoid it being overwritten*/
-  .modal__close_type_preview {
+  .modal__close-btn_type_preview {
     top: -48px;
     right: 0;
   }
