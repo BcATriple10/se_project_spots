@@ -56,6 +56,5 @@ But it wouldn't work.
 
 **Extra note**
 
-- I don't have the ability to record the video when I send this in, but I will replace the video with the proper code showing towards the end of sprint 5.
-  Due to time issues and personal problems. I have not had time to re-record everything, along with investigating my lighting issue. Though it is priority once I can get myself realigned
-  With my schedule.
+- I will replace the video with the proper code showing everything I have done from last sprint and this sprint.
+  Due to time issues and personal problems. I have not had time to re-record everything still, it is priority once I send this in and get it reviewed then make sure to correct anything I may have missed.
