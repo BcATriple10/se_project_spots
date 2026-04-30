@@ -47,14 +47,10 @@ what other projects this program has in-store for me.
 - ![Mobile view of the project](<images/mobile-view(2).png>)
 
 **Loom video**
+Spots Stage 2
 
 - [Loom Link](https://drive.google.com/file/d/1xds0FnN576LdKj9XyaT9LtXkl1nqkRi3/view?usp=sharing)
 
-I don't know if it was me, but for some reason Loom was giving me massive issues with recording quality despite the fact that I was fine before recording.
-If anything came out weird I apologize, I do not know why it was doing that. I tried everything I could to edit the poor lighting even turning off my own light.
-But it wouldn't work.
+Spots Stage 9
 
-**Extra note**
-
-- I will replace the video with the proper code showing everything I have done from last sprint and this sprint.
-  Due to time issues and personal problems. I have not had time to re-record everything still, it is priority once I send this in and get it reviewed then make sure to correct anything I may have missed.
+- [Loom Link](https://www.loom.com/share/745e4da30f874bbdb33cca6b08e2e1c8)

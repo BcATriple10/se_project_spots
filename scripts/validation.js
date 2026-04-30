@@ -2,7 +2,7 @@ const settings = {
   formSelector: ".modal__form",
   inputSelector: ".modal__input",
   newSubmitBtn: ".modal__submit-btn",
-  inactiveButtonClass: "modal__btn",
+  inactiveButtonClass: "modal__submit-btn_disabled",
   inputErrorClass: "modal__input_type_error",
   errorClass: "modal__error",
 };
@@ -60,6 +60,10 @@ const setEventListeners = (formEl, config) => {
   const buttonElement = formEl.querySelector(config.newSubmitBtn);
 
   toggleButtonState(inputList, buttonElement, config);
+
+  formEl.addEventListener("reset", () => {
+    disableButton(buttonElement, config);
+  });
 
   inputList.forEach((inputElement) => {
     inputElement.addEventListener("input", function () {
